@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">lesson1</string>
+    <string name="full_name">Zhuk Pavel Pavlovich</string>
+    <string name="position">student</string>
 </resources>
